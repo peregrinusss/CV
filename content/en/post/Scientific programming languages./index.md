@@ -1,6 +1,6 @@
 ---
 title: Scientific programming languages.
-subtitle: A lightweight markup language for creating formatted text using a plain-text editor.
+subtitle: A programming languages that are used widely for computational science and computational mathematics.
 
 # Summary for listings and search engines
 summary: About a scientific programming languages.
